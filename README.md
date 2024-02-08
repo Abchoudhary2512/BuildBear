@@ -72,19 +72,3 @@ Ensure you have Rust installed on your machine. If not, you can install it using
     ```
 
 4. **The swap is completed once both parties have deposited their NFTs.**
-
-### Deploying the Contract
-
-To deploy this contract on a blockchain, you'll need to:
-
-- Use a smart contract development framework like [Ink!](https://substrate.dev/substrate-contracts-workshop/#/).
-- Adapt the code to the specific blockchain and NFT standard you're working with.
-- Compile and deploy the smart contract using the appropriate tools provided by the blockchain platform.
-
-Ensure that you perform thorough testing and security audits before deploying any smart contract in a production environment.
-
-## Note
-
-This example provides a basic illustration of an NFT swap contract. For production use, consider additional features such as security checks, ownership verifications, and gas efficiency optimizations.
-
-For more detailed deployment instructions on a specific blockchain, refer to the documentation of the corresponding smart contract development framework.
