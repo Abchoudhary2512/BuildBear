@@ -15,13 +15,13 @@ Ensure you have Rust installed on your machine. If not, you can install it using
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your/nft-swap-contract.git
+    git clone https://github.com/Abchoudhary2512/BuildBear.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd nft-swap-contract
+    cd BuildBear
     ```
 
 3. Run the code:
